@@ -2,6 +2,7 @@
   "name": "resourzone",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/user",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
